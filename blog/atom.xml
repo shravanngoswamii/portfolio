@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.shravangoswami.com/blog</id>
+    <title>Shravan Goswami Blog</title>
+    <updated>2024-06-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.shravangoswami.com/blog"/>
+    <subtitle>Shravan Goswami Blog</subtitle>
+    <icon>https://blog.shravangoswami.com/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Strings in Javascript]]></title>
+        <id>https://blog.shravangoswami.com/blog/strings-in-js</id>
+        <link href="https://blog.shravangoswami.com/blog/strings-in-js"/>
+        <updated>2024-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Well, Javascript have any string methods and in this article, we will practice all of them!]]></summary>
+        <content type="html"><![CDATA[<p>Well, Javascript have any string methods and in this article, we will practice all of them!</p>]]></content>
+        <author>
+            <name>Shravan Goswami</name>
+            <uri>https://github.com/shravanngoswamii</uri>
+        </author>
+        <category label="JavaScript" term="JavaScript"/>
+        <category label="Technical" term="Technical"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What can you expect in this Blog!]]></title>
+        <id>https://blog.shravangoswami.com/blog/first-blog</id>
+        <link href="https://blog.shravangoswami.com/blog/first-blog"/>
+        <updated>2024-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This will be updated later]]></summary>
+        <content type="html"><![CDATA[<p>This will be updated later</p>]]></content>
+        <author>
+            <name>Shravan Goswami</name>
+            <uri>https://github.com/shravanngoswamii</uri>
+        </author>
+        <category label="Blog" term="Blog"/>
+    </entry>
+</feed>

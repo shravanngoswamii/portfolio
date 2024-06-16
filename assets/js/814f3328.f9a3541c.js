@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Strings in Javascript","permalink":"/blog/strings-in-js","unlisted":false},{"title":"What can you expect in this Blog!","permalink":"/blog/first-blog","unlisted":false}]}')}}]);
